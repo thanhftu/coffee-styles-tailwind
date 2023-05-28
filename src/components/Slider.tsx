@@ -1,5 +1,3 @@
-import React from "react";
-
 function Slider() {
   return (
     <div className="w-full h-[500px] bg-[url('./assets/slider-bg.jpeg')] bg-no-repeat bg-cover bg-bottom">
