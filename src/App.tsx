@@ -1,5 +1,6 @@
 import Features from "./components/Features";
 import Header from "./components/Header";
+import Magazine from "./components/Magazine";
 import Products from "./components/Products";
 import Slider from "./components/Slider";
 
@@ -10,6 +11,7 @@ function App() {
       <Slider />
       <Features />
       <Products />
+      <Magazine />
     </div>
   );
 }
